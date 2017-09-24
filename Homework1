@@ -22,4 +22,5 @@ if message probability is 1/4
 >  = 1/2 + 1/2 + 1/2 + 1/2 <br>
 >  = 2 (bits/message).
 
->
+>average: (2 (bits/message) + 3/2 (bits/message) + 3/2 (bits/message) + 2 (bits/message))/4 <br>
+>          =7/4 (bits/message).
