@@ -8,8 +8,11 @@
 |X4|1110|0010|110|110|
 |X5|1111|0011|111|111|
 
-_prefix free_ code : 1, 4
-
+_prefix free_ code : 1, 4 <br>
+Code 1 <br>
+![](Homework2-1.png)
+Code 4 <br>
+![](Homework2-2.png)
 
 
 ### 2.
