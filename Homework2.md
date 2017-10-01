@@ -1,5 +1,5 @@
-1.
-2.
+# 1.
+# 2.
   a) <br>
   b)
 
@@ -26,7 +26,7 @@ H = (0.25 * log<sub>2</sub>(1/0.25)) * 2 + (0.125 * log<sub>2</sub>(1/0.125)) * 
   = (0.25 * 2) * 2 + (0.125 * 3) * 3 + (0.0625 * 4) * 2 <br>
   = 2.625
 
-3.
+# 3.
 - source: abcabcabcabcabcabcabcabcabcabcabcabc
 - encode:
 
