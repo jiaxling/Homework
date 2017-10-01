@@ -10,7 +10,7 @@
 
 _prefix free_ code : 1, 4 <br>
 Code 1 <br>
-![](Homework2-1.png)
+![](Homework2-1.png) <br>
 Code 4 <br>
 ![](Homework2-2.png)
 
