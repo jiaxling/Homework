@@ -103,6 +103,6 @@ EX: bit position 9 is wrong __(1 -> 0)__
   - Dataword accepted 11010011101100
 
 - CRC detect error 
-  - Codeword 110__0__0011101100100
+  - Codeword 11000011101100100
 ![](Homework6-3.jpg)
   - Dataword discarded
