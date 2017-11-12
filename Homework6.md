@@ -95,14 +95,14 @@ EX: bit position 9 is wrong __(1 -> 0)__
 
 - CRC encoding
 ![](Homework6-1.jpg)
-#### Codeword 11010011101100100
+  - Codeword 11010011101100100
 
 - CRC decoding 
-#### Codeword 11010011101100100
+  - Codeword 11010011101100100
 ![](Homework6-2.jpg)
-#### Dataword accepted 11010011101100
+  - Dataword accepted 11010011101100
 
 - CRC detect error 
-#### Codeword 110__0__0011101100100
+  - Codeword 110__0__0011101100100
 ![](Homework6-3.jpg)
-#### Dataword discarded
+  - Dataword discarded
