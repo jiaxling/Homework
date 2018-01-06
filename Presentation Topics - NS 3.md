@@ -37,7 +37,7 @@
 
 > Tom Henderson（華盛頓大學）領導的一個團隊、George Riley（喬治亞理工學院）、Sally Floyd（國際計算機研究中心）和Sumit Roy（華盛頓大學），申請並受美國國家科學基金會（NSF）資助，共同開發ns-2的替代品，被稱作ns-3。於此同時，INRIA Sophia Antipolis的Planete研究小組內的Mathieu Lacage和Walid Dabbous開始尋找一個ns-2的替代品，以用於測試IEEE 802.11Wi-Fi模型。Lacage原先使用的模擬器名叫Yet Another Network Simulator（yans）。
 
-> 代碼主要由Mathieu Lacage編寫，並利用了部分yans模擬器、喬治亞理工學院網絡模擬器（GTNetS）及ns-2的代碼。Gustavo Carneiro貢獻了一個框架，包括生成Python綁定（pybindgen）及 *使用Waf編譯系統。*
+> 代碼主要由Mathieu Lacage編寫，並利用了部分yans模擬器、喬治亞理工學院網絡模擬器（GTNetS）及ns-2的代碼。Gustavo Carneiro貢獻了一個框架，包括生成Python綁定（pybindgen）及 __*使用Waf編譯系統。*__
 
 >2008年6月，ns-3發布了ns-3.1，之後項目在每個季度發布，直到最近變成了1年3次發布。ns-3在2012年第三季度發布了它的第15版（ns-3.15）。
 
@@ -51,7 +51,7 @@
 2. **模型使用**：添加模型（例如UDP、IPv4、點對點設備和連結、應用），大多數操作可通過指南完成。
 3. **節點和連接配置**：設置模型默認值。例如，一個程序發送的包的大小和點對點連接的MTU值(Maximum Transmission Unit)。
 4. **執行**：模擬事件，用戶請求數據。
-5. **性能分析**：在模擬完成後帶有 *時間戳記(Timstamp)* 的事件跟蹤記錄可供使用。例如R語言分析並且得到結論。
+5. **性能分析**：在模擬完成後帶有 __*時間戳記(Timstamp)*__ 的事件跟蹤記錄可供使用。例如R語言分析並且得到結論。
 6. **圖形可視化**：原始或處理過的數據能被工具使用，例如Gnuplot、matplotlib或是Xgraph畫出。
 
 
